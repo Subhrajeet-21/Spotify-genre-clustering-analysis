@@ -105,3 +105,7 @@ Created new features like:
 * Improved clustering performance and separation
 
 ---
+## Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub!
+
