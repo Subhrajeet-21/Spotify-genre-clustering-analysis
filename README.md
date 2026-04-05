@@ -17,12 +17,12 @@ Instead of direct classification, the model uses clustering algorithms to discov
 
 ## 🎯 Key Features
 
-✔️ Data cleaning and preprocessing
-✔️ Feature engineering (custom audio metrics)
-✔️ Dimensionality reduction using PCA & t-SNE
-✔️ K-Means clustering with hyperparameter tuning
-✔️ Outlier detection and removal using silhouette scores
-✔️ Cluster visualization using Plotly
+- Data cleaning and preprocessing
+- Feature engineering (custom audio metrics)
+- Dimensionality reduction using PCA & t-SNE
+- K-Means clustering with hyperparameter tuning
+- Outlier detection and removal using silhouette scores
+- Cluster visualization using Plotly
 
 ---
 
@@ -82,12 +82,19 @@ Created new features like:
 
 ---
 
-## 📉 Visualizations
+## 📊 Visualizations  
 
-* Elbow Method (Optimal k selection)
-* Silhouette Score Analysis
-* Cluster visualization (PCA & t-SNE)
-* Interactive scatter plots using Plotly
+### 🔹 Elbow Method (Optimal Clusters)
+<img width="547" height="393" alt="image" src="https://github.com/user-attachments/assets/f0205ad0-f63a-4e08-8a78-917984914cf5" />
+
+
+### 🔹 Silhouette Score Analysis
+<img width="532" height="398" alt="image" src="https://github.com/user-attachments/assets/72ce0689-c226-4c21-b677-9cde9ea13871" />
+
+
+### 🔹 Final Clustering (t-SNE Visualization)
+<img width="2393" height="634" alt="image" src="https://github.com/user-attachments/assets/6c0a83ae-0d65-48fe-829b-61b85e4fe522" />
+
 
 ---
 
