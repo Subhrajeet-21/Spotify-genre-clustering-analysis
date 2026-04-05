@@ -67,7 +67,7 @@ Created new features like:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 ### Initial Model
 
