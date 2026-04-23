@@ -1,4 +1,4 @@
-# 🎧 Spotify Genre Clustering & Analysis
+# 🎧 Spotify Genre Clustering & Analysis [Team Project]
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange.svg)
